@@ -1,17 +1,17 @@
 { "commands": [
-{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2813"}, "freq": 5,
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2813"}, "freq": 15,
   "signals": [
     {"id": "FOCUSEV_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2814"}, "freq": 5,
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2814"}, "freq": 15,
   "signals": [
     {"id": "FOCUSEV_TP_FR", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2815"}, "freq": 5,
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2815"}, "freq": 15,
   "signals": [
     {"id": "FOCUSEV_TP_RRO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear right outer tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2816"}, "freq": 5,
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2816"}, "freq": 15,
   "signals": [
     {"id": "FOCUSEV_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
@@ -33,9 +33,9 @@
   ]},
 { "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "407E"}, "freq": 1,
   "signals": [
-    {"id": "FOCUSEV_EXTERIOR_LIGHT_STATE", "path": "Lights", "name": "Exterior lighting state", "fmt": {"len": 8, "map": {
-          "0":   { "description": "Lights Off", "value": "OFF" },
-          "216": { "description": "Lights On",  "value": "ON" }
+    {"id": "FOCUSEV_EXTERIOR_LIGHT_STATE", "path": "Lights", "name": "Exterior lighting state", "fmt": {"bix": 0, "len": 1, "map": {
+          "0":   { "description": "0", "value": "0" },
+          "216": { "description": "1", "value": "1" }
         }}
     }
   ]},
