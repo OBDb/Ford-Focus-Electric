@@ -33,9 +33,9 @@
   ]},
 { "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "407E"}, "freq": 1,
   "signals": [
-    {"id": "FOCUSEV_EXTERIOR_LIGHT_STATE", "path": "Lights", "name": "Exterior lighting state", "fmt": {"bix": 0, "len": 1, "map": {
-          "0":   { "description": "0", "value": "0" },
-          "216": { "description": "1", "value": "1" }
+    {"id": "FOCUSEV_EXTERIOR_LIGHT_STATE", "path": "Lights", "name": "Exterior lighting state", "fmt": {"len": 8, "map": {
+          "0":   { "description": "Lights Off", "value": "OFF" },
+          "216": { "description": "Lights On",  "value": "ON" }
         }}
     }
   ]},
