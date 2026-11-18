@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.224850
+test_cases:
+- expected_values:
+    FOCUSEV_CHG_OUT_A: 0
+  response: 7EA056248500000
+- expected_values:
+    FOCUSEV_CHG_OUT_A: 0.01
+  response: 7EA056248500001

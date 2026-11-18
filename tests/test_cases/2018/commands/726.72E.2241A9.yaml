@@ -1,0 +1,7 @@
+command_id: 726.72E.2241A9
+test_cases:
+- expected_values:
+    FOCUSEV_12V_REFRESH: 0
+    FOCUSEV_12V_SOC_LOW: 0
+    FOCUSEV_12V_V_LOW: 0
+  response: 72E076241A900000000

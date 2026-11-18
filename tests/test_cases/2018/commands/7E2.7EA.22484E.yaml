@@ -1,0 +1,5 @@
+command_id: 7E2.7EA.22484E
+test_cases:
+- expected_values:
+    FOCUSEV_CHG_SPEED_REAL: 0
+  response: 7EA0562484E0000

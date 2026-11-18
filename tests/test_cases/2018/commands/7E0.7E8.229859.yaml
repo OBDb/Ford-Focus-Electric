@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.229859
+test_cases:
+- expected_values:
+    FOCUSEV_PTC_HTR_DUTY: 2
+  response: '7E80462985902'
+- expected_values:
+    FOCUSEV_PTC_HTR_DUTY: 92
+  response: 7E8046298595C

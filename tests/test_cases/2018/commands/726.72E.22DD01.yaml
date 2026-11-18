@@ -1,0 +1,11 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    FOCUSEV_ODO: 54521
+  response: 72E0662DD0100D4F9
+- expected_values:
+    FOCUSEV_ODO: 54527
+  response: 72E0662DD0100D4FF
+- expected_values:
+    FOCUSEV_ODO: 54528
+  response: 72E0662DD0100D500

@@ -1,0 +1,8 @@
+command_id: 760.768.222034
+test_cases:
+- expected_values:
+    FOCUSEV_BRK_HYD_KPA: 0
+  response: '768056220340000'
+- expected_values:
+    FOCUSEV_BRK_HYD_KPA: 6393.6
+  response: 7680562203400C0
