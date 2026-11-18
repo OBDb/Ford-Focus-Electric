@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E23
+test_cases:
+- expected_values:
+    FOCUSEV_GEAR_POS: DRIVE
+  response: 7E804621E232B
+- expected_values:
+    FOCUSEV_GEAR_POS: REVERSE
+  response: 7E804621E233C
+- expected_values:
+    FOCUSEV_GEAR_POS: PARK
+  response: 7E804621E2346

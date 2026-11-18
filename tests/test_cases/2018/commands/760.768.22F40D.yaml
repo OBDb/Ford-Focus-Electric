@@ -1,0 +1,8 @@
+command_id: 760.768.22F40D
+test_cases:
+- expected_values:
+    FOCUSEV_VSS: 0
+  response: 7680462F40D00
+- expected_values:
+    FOCUSEV_VSS: 121
+  response: 7680462F40D79
