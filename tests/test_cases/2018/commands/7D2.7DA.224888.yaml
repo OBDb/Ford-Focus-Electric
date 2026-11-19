@@ -4,5 +4,8 @@ test_cases:
     FOCUSEV_CPLR_TEMP_A: 86
   response: 7DA046248887E
 - expected_values:
+    FOCUSEV_CPLR_TEMP_A: 87
+  response: 7DA046248887F
+- expected_values:
     FOCUSEV_CPLR_TEMP_A: 88
   response: 7DA0462488880
