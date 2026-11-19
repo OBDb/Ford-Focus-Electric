@@ -7,6 +7,9 @@ test_cases:
     FOCUSEV_12V_T: 15
   response: '72E0462402937'
 - expected_values:
+    FOCUSEV_12V_T: 18
+  response: 72E046240293A
+- expected_values:
     FOCUSEV_12V_T: 19
   response: 72E046240293B
 - expected_values:
