@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     FOCUSEV_CHG_OUT_A: 0.01
   response: 7EA056248500001
+- expected_values:
+    FOCUSEV_CHG_OUT_A: 3.37
+  response: 7EA056248500151
+- expected_values:
+    FOCUSEV_CHG_OUT_A: 3.4
+  response: 7EA056248500154
+- expected_values:
+    FOCUSEV_CHG_OUT_A: 3.42
+  response: 7EA056248500156
+- expected_values:
+    FOCUSEV_CHG_OUT_A: 3.43
+  response: 7EA056248500157
+- expected_values:
+    FOCUSEV_CHG_OUT_A: 3.48
+  response: 7EA05624850015C

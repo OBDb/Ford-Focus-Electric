@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.224845
 test_cases:
 - expected_values:
-    FOCUSEV_BAT_CHA_DISPL: 56.5
-  response: 7EC0462484571
+    FOCUSEV_BAT_CHA_DISPL: 55.5
+  response: 7EC046248456F
 - expected_values:
     FOCUSEV_BAT_CHA_DISPL: 99.5
   response: 7EC04624845C7

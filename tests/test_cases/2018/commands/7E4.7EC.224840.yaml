@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.224840
 test_cases:
 - expected_values:
-    FOCUSEV_HVBAT_MIN_MOD_V: 3.627
-  response: 7EC056248400E2B
+    FOCUSEV_HVBAT_MIN_MOD_V: 3.608
+  response: 7EC056248400E18
 - expected_values:
     FOCUSEV_HVBAT_MIN_MOD_V: 3.836
   response: 7EC056248400EFC

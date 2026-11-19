@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FOCUSEV_EVSE_TYPE: UNPLUGGED
   response: 7EA0462485100
+- expected_values:
+    FOCUSEV_EVSE_TYPE: PLUGGED_L1
+  response: 7EA0462485101
