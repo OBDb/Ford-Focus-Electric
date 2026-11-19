@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FOCUSEV_CHRG_STATE: NOT_CHARGING
   response: 7EC0462484D00
+- expected_values:
+    FOCUSEV_CHRG_STATE: CHARGING
+  response: 7EC0462484D03

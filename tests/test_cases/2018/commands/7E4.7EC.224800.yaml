@@ -7,6 +7,12 @@ test_cases:
     FOCUSEV_HVBAT_T: 17
   response: 7EC0462480043
 - expected_values:
+    FOCUSEV_HVBAT_T: 20
+  response: 7EC0462480046
+- expected_values:
+    FOCUSEV_HVBAT_T: 21
+  response: 7EC0462480047
+- expected_values:
     FOCUSEV_HVBAT_T: 22
   response: 7EC0462480048
 - expected_values:
