@@ -1,5 +1,8 @@
 command_id: 7D2.7DA.224888
 test_cases:
 - expected_values:
+    FOCUSEV_CPLR_TEMP_A: 86
+  response: 7DA046248887E
+- expected_values:
     FOCUSEV_CPLR_TEMP_A: 88
   response: 7DA0462488880
