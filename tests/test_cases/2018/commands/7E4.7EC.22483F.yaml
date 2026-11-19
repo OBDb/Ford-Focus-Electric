@@ -4,5 +4,5 @@ test_cases:
     FOCUSEV_HVBAT_VAR_MOD_V: 0.01
   response: 7EC0562483F000A
 - expected_values:
-    FOCUSEV_HVBAT_VAR_MOD_V: 0.043
-  response: 7EC0562483F002B
+    FOCUSEV_HVBAT_VAR_MOD_V: 0.067
+  response: 7EC0562483F0043

@@ -4,5 +4,8 @@ test_cases:
     FOCUSEV_BRK_PDL_PCT: 0.04
   response: '768056228230004'
 - expected_values:
+    FOCUSEV_BRK_PDL_PCT: -0.1
+  response: 76805622823FFF6
+- expected_values:
     FOCUSEV_BRK_PDL_PCT: -0.02
   response: 76805622823FFFE

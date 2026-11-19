@@ -4,5 +4,5 @@ test_cases:
     FOCUSEV_VSS: 0
   response: 7680462F40D00
 - expected_values:
-    FOCUSEV_VSS: 121
-  response: 7680462F40D79
+    FOCUSEV_VSS: 136
+  response: 7680462F40D88
