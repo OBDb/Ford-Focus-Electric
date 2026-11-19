@@ -4,5 +4,5 @@ test_cases:
     FOCUSEV_BRK_HYD_KPA: 0
   response: '768056220340000'
 - expected_values:
-    FOCUSEV_BRK_HYD_KPA: 6393.6
-  response: 7680562203400C0
+    FOCUSEV_BRK_HYD_KPA: 30000
+  response: 76805622034FFFF

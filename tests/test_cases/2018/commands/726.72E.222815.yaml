@@ -4,5 +4,5 @@ test_cases:
     FOCUSEV_TP_RRO: 32.75
   response: 72E05622815028F
 - expected_values:
-    FOCUSEV_TP_RRO: 35.5
-  response: 72E0562281502C6
+    FOCUSEV_TP_RRO: 36.4
+  response: 72E0562281502D8
