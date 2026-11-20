@@ -10,5 +10,5 @@ test_cases:
     FOCUSEV_CHG_OUT_V: 317.43
   response: 7EA0562484A7BFF
 - expected_values:
-    FOCUSEV_CHG_OUT_V: 317.93
-  response: 7EA0562484A7C31
+    FOCUSEV_CHG_OUT_V: 325.37
+  response: 7EA0562484A7F19
