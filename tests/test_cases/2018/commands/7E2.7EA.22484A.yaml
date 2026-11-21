@@ -1,8 +1,8 @@
 command_id: 7E2.7EA.22484A
 test_cases:
 - expected_values:
-    FOCUSEV_CHG_OUT_V: 21.06
-  response: 7EA0562484A083A
+    FOCUSEV_CHG_OUT_V: 11.87
+  response: 7EA0562484A04A3
 - expected_values:
     FOCUSEV_CHG_OUT_V: 30.75
   response: 7EA0562484A0C03

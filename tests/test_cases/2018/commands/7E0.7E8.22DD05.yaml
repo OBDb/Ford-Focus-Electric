@@ -4,5 +4,5 @@ test_cases:
     FOCUSEV_EXT_TEMP: 8
   response: 7E80462DD0530
 - expected_values:
-    FOCUSEV_EXT_TEMP: 22
-  response: 7E80462DD053E
+    FOCUSEV_EXT_TEMP: 27
+  response: 7E80462DD0543
