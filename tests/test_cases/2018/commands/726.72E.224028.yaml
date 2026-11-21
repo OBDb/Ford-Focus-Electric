@@ -10,6 +10,9 @@ test_cases:
     FOCUSEV_12V_SOC: 85
   response: '72E0462402855'
 - expected_values:
+    FOCUSEV_12V_SOC: 86
+  response: '72E0462402856'
+- expected_values:
     FOCUSEV_12V_SOC: 88
   response: '72E0462402858'
 - expected_values:

@@ -4,6 +4,9 @@ test_cases:
     FOCUSEV_GEAR_POS: DRIVE
   response: 7E804621E232B
 - expected_values:
+    FOCUSEV_GEAR_POS: NEUTRAL
+  response: 7E804621E2332
+- expected_values:
     FOCUSEV_GEAR_POS: REVERSE
   response: 7E804621E233C
 - expected_values:
