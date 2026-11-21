@@ -4,11 +4,11 @@ test_cases:
     FOCUSEV_BAT_TO_EMPTY_KWH: 13.958
   response: 7EC056248481B43
 - expected_values:
-    FOCUSEV_BAT_TO_EMPTY_KWH: 14.332
-  response: 7EC056248481BFE
-- expected_values:
     FOCUSEV_BAT_TO_EMPTY_KWH: 14.338
   response: 7EC056248481C01
+- expected_values:
+    FOCUSEV_BAT_TO_EMPTY_KWH: 25.086
+  response: 7EC0562484830FF
 - expected_values:
     FOCUSEV_BAT_TO_EMPTY_KWH: 25.09
   response: 7EC056248483101
