@@ -7,8 +7,8 @@ test_cases:
     FOCUSEV_APP1_V: 1.24707
   response: 7E80562091404FD
 - expected_values:
-    FOCUSEV_APP1_V: 1.25098
-  response: '7E8056209140501'
+    FOCUSEV_APP1_V: 1.25
+  response: '7E8056209140500'
 - expected_values:
     FOCUSEV_APP1_V: 3.26758
   response: 7E8056209140D12

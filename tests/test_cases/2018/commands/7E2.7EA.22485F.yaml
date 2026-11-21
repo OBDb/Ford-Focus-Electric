@@ -4,6 +4,9 @@ test_cases:
     FOCUSEV_AC_LINE_A: 0
   response: 7EA0462485F00
 - expected_values:
+    FOCUSEV_AC_LINE_A: 9
+  response: 7EA0462485F09
+- expected_values:
     FOCUSEV_AC_LINE_A: 10
   response: 7EA0462485F0A
 - expected_values:
