@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     FOCUSEV_HVBAT_T: 27
   response: 7EC046248004D
+- expected_values:
+    FOCUSEV_HVBAT_T: 28
+  response: 7EC046248004E
