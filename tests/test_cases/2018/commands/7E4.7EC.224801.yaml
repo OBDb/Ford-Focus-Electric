@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.224801
 test_cases:
 - expected_values:
-    FOCUSEV_HVBAT_SOC: 56.464
-  response: 7EC056248016E48
+    FOCUSEV_HVBAT_SOC: 32.03
+  response: 7EC056248013E8F
+- expected_values:
+    FOCUSEV_HVBAT_SOC: 40.96
+  response: 7EC056248015000
 - expected_values:
     FOCUSEV_HVBAT_SOC: 58.878
   response: 7EC0562480172FF
-- expected_values:
-    FOCUSEV_HVBAT_SOC: 83.968
-  response: 7EC05624801A400
 - expected_values:
     FOCUSEV_HVBAT_SOC: 94.748
   response: 7EC05624801B90E

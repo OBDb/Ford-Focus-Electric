@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.224848
 test_cases:
 - expected_values:
-    FOCUSEV_BAT_TO_EMPTY_KWH: 13.958
-  response: 7EC056248481B43
+    FOCUSEV_BAT_TO_EMPTY_KWH: 6.494
+  response: 7EC056248480CAF
 - expected_values:
     FOCUSEV_BAT_TO_EMPTY_KWH: 14.338
   response: 7EC056248481C01

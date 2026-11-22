@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.22483F
 test_cases:
 - expected_values:
-    FOCUSEV_HVBAT_VAR_MOD_V: 0.009
-  response: 7EC0562483F0009
+    FOCUSEV_HVBAT_VAR_MOD_V: 0.008
+  response: 7EC0562483F0008
 - expected_values:
     FOCUSEV_HVBAT_VAR_MOD_V: 0.069
   response: 7EC0562483F0045
