@@ -4,6 +4,9 @@ test_cases:
     FOCUSEV_CHG_SPEED_REAL: 0
   response: 7EA0562484E0000
 - expected_values:
+    FOCUSEV_CHG_SPEED_REAL: 43.8
+  response: 7EA0562484E2238
+- expected_values:
     FOCUSEV_CHG_SPEED_REAL: 52.6
   response: 7EA0562484E2918
 - expected_values:
