@@ -4,5 +4,5 @@ test_cases:
     FOCUSEV_BAT_COOL_IN_T: 13
   response: 7EC046248463F
 - expected_values:
-    FOCUSEV_BAT_COOL_IN_T: 28
-  response: 7EC046248464E
+    FOCUSEV_BAT_COOL_IN_T: 30
+  response: 7EC0462484650
