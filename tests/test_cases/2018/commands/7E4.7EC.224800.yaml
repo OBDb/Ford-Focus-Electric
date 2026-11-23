@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.224800
 test_cases:
 - expected_values:
-    FOCUSEV_HVBAT_T: 16
-  response: 7EC0462480042
+    FOCUSEV_HVBAT_T: -2
+  response: 7EC0462480030
 - expected_values:
     FOCUSEV_HVBAT_T: 29
   response: 7EC046248004F

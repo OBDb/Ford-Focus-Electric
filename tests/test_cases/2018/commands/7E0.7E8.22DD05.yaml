@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22DD05
 test_cases:
 - expected_values:
-    FOCUSEV_EXT_TEMP: 8
-  response: 7E80462DD0530
+    FOCUSEV_EXT_TEMP: 1
+  response: 7E80462DD0529
 - expected_values:
     FOCUSEV_EXT_TEMP: 27
   response: 7E80462DD0543
