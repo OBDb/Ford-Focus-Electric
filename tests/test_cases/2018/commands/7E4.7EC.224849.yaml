@@ -1,9 +1,9 @@
 command_id: 7E4.7EC.224849
 test_cases:
 - expected_values:
-    FOCUSEV_LPACK_COOL_IN_T: 3
-    FOCUSEV_LPACK_COOL_OUT_T: 3
-  response: 7EC076248493535FFFF
+    FOCUSEV_LPACK_COOL_IN_T: -5
+    FOCUSEV_LPACK_COOL_OUT_T: -5
+  response: 7EC076248492D2DFFFF
 - expected_values:
     FOCUSEV_LPACK_COOL_IN_T: 12
     FOCUSEV_LPACK_COOL_OUT_T: 20
