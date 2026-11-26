@@ -10,5 +10,5 @@ test_cases:
     FOCUSEV_HVBAT_V: 317.44
   response: 7EC0562480D7C00
 - expected_values:
-    FOCUSEV_HVBAT_V: 348.25
-  response: 7EC0562480D8809
+    FOCUSEV_HVBAT_V: 351.72
+  response: 7EC0562480D8964
