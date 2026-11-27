@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220914
 test_cases:
 - expected_values:
-    FOCUSEV_APP1_V: 0.82227
-  response: 7E805620914034A
+    FOCUSEV_APP1_V: 0.82129
+  response: '7E8056209140349'
 - expected_values:
     FOCUSEV_APP1_V: 1.25
   response: '7E8056209140500'
