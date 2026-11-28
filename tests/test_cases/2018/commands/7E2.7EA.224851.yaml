@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FOCUSEV_EVSE_TYPE: PLUGGED_L1
   response: 7EA0462485101
+- expected_values:
+    FOCUSEV_EVSE_TYPE: PLUGGED_L2
+  response: 7EA0462485102
