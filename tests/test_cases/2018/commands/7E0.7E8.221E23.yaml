@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221E23
 test_cases:
 - expected_values:
+    FOCUSEV_GEAR_POS: LOW
+  response: 7E804621E2314
+- expected_values:
     FOCUSEV_GEAR_POS: DRIVE
   response: 7E804621E232B
 - expected_values:

@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     FOCUSEV_12V_AGE: 12096
   response: 72E0562402701F8
+- expected_values:
+    FOCUSEV_12V_AGE: 12144
+  response: 72E0562402701FA
